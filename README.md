@@ -4,7 +4,10 @@ Radio Llama is an application that generates personalized audio content using ge
  
 ## 📸 Preview
 
+Landing page
 ![Landing page](https://github.com/Anox-Leo/radio_llama/blob/main/images/landing_page.png)
+
+Radio generation page
 ![Radio genereation page](https://github.com/Anox-Leo/radio_llama/blob/main/images/radio_generation_page.png)
 
 ## How to locally test
