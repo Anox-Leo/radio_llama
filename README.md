@@ -1,12 +1,13 @@
-Procédure de déploiement :
+# 🦙 Radio Llama
 
+Radio Llama is an application that generates personalized audio content using generative AI. From AI-generated radio with your playlists to interactive storytelling, Radio Llama offers a unique and dynamic listening experience. This project was developed during the Shift - Generative AI hackathon
+ 
+## 📸 Preview
 
-- Backend : merge sur main
-- Front end : TBD
-- Fief : TBD
+![Landing page](https://github.com/Anox-Leo/radio_llama/blob/main/images/landing_page.png)
+![Radio genereation page](https://github.com/Anox-Leo/radio_llama/blob/main/images/radio_generation_page.png)
 
-
-## How to locally test (DEMO)
+## How to locally test
 
 - Go to the folder `llamapy/utils_romain` and copy the `.env.dist` file to `.env`
 
